@@ -17,3 +17,18 @@ https://mega.nz/file/alxFzZIR#c9eTbTnbfdlt4_FZxKvGJsrBccAQHdZ74EtBq3y0vHs
         </mirror>
     </mirrors>
 </settings>
+
+
+
+
+
+<repositories>
+    <repository>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+    <repository>
+        <id>mulesoft-releases</id>
+        <url>https://repository.mulesoft.org/releases/</url>
+    </repository>
+</repositories>
